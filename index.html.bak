@@ -1,0 +1,67 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>阿宅-灯塔 方向</title>
+<meta charset="utf-8">
+<meta name="baidu-site-verification" content="b9lOcChmbf">
+<meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
+<link rel="shortcut icon" href="./favicon.ico" /> 
+<link rel="stylesheet" href="css/main.css">
+<noscript>
+<link rel="stylesheet" href="css/noscript.css"/>
+</noscript>
+</head>
+<body>
+<div id="bg">
+</div>
+<div id="wrapper">
+	<header id="header">
+	<div class="logo">
+		<img src="http://q2.qlogo.cn/headimg_dl?dst_uin=240233869&amp;spec=100
+
+" class="logo">
+	</div>
+	<div class="content">
+		<div class="inner">
+			<h1>阿宅</h1>
+			<p><div id="chakhsu"  style="text-align:center;color:green"></div>
+<script type="text/javascript" src="http://djt.jinchen.xyz/api/?format=js&charset=utf-8"></script>
+<div id="hitokoto"><script>hitokoto()</script></div>
+</p>
+		</div>
+	</div>
+	<nav>
+		<script type="text/javascript">
+			function duihua()
+			{
+			alert("森七")
+			}
+		</script>
+	<ul>
+		<li><a href="http://daohang.jinchen.xyz/" target="_blank"><i class="fa fa-home"></i>首页</a></li>
+								<li><a href="http://wpa.qq.com/msgrd?v=3&uin=240233869&site=qq&menu=yes" target="_blank"><i class="fa fa-qq"></i>Q Q</a></li>
+                                                                <li><a href="http://bk.jinchen.xyz/" target="_blank"><i class="fa fa-pencil-square-o"></i>纪念我们</a></li>
+                   	 		          	        <li><a href="http://xiangai.jinchen.xyz/" target="_blank"><i class="fa fa-bicycle"></i>愿望清单</a></li>
+								<li><a href="http://bbq.jinchen.xyz" target="_blank"><i class="fa fa-heartbeat"></i>表白墙</a></li>
+	                                                 	<li><a href="http://tg.jinchen.xyz/" target="_blank"><i class="fa fa-drupal"></i>舔狗日记</a></li>
+ 	                                                        <li><a href="http://djt.jinchen.xyz/" target="_blank"><i class="fa fa-odnoklassniki"></i>毒鸡汤</a></li>
+								<li><a href="http://zf.jinchen.xyz/"target="_blank"><i class="fa fa-comments-o"></i>五合一收款码制做</a></li><!-- 按钮5-->
+	</ul>
+	</nav></header>
+	<footer id="footer">
+	<p class="copyright">© 2020 <a href="https://jq.qq.com/?_wv=1027&k=5rWLlJP/"target="_blank"><p class="copyright">服务器赞助|一个一个</a></p>
+</footer>
+</div>
+<!-- xiaokeai -->
+<div id="cc-myssl-id" style="position: fixed;right: 0;bottom: 0;width: 50px;height: 50px;z-index: 99;">
+<a href="#"><img src="./xiaokeai.gif" alt="" style="width:100%;height:100%"></a>
+</div>
+<script src="js/jquery.min.js"></script>
+<script src="js/skel.min.js"></script>
+<script src="js/util.js"></script>
+<script src="js/main.js"></script>
+<script type="text/javascript">document.oncontextmenu=function(t){window.event&&(t=window.event);try{var e=t.srcElement;return"INPUT"==e.tagName&&"text"==e.type.toLowerCase()||"TEXTAREA"==e.tagName?!0:!1}catch(n){return!1}},document.onpaste=function(t){window.event&&(t=window.event);try{var e=t.srcElement;return"INPUT"==e.tagName&&"text"==e.type.toLowerCase()||"TEXTAREA"==e.tagName?!0:!1}catch(n){return!1}},document.oncopy=function(t){window.event&&(t=window.event);try{var e=t.srcElement;return"INPUT"==e.tagName&&"text"==e.type.toLowerCase()||"TEXTAREA"==e.tagName?!0:!1}catch(n){return!1}},document.oncut=function(t){window.event&&(t=window.event);try{var e=t.srcElement;return"INPUT"==e.tagName&&"text"==e.type.toLowerCase()||"TEXTAREA"==e.tagName?!0:!1}catch(n){return!1}},document.onselectstart=function(t){window.event&&(t=window.event);try{var e=t.srcElement;return"INPUT"==e.tagName&&"text"==e.type.toLowerCase()||"TEXTAREA"==e.tagName?!0:!1}catch(n){return!1}};</script>
+
+
+</body>
+</html>
